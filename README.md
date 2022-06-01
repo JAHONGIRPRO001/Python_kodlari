@@ -1,2 +1,2 @@
 # Python_kodlari
-Ushbu repozitoriyda python kodlarim jamlangan    
+U shbu repozitoriyda python kodlarim jamlangan.
